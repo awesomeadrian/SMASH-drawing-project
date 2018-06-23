@@ -30,6 +30,8 @@ background('black'); // try changing this to a blue background
     arc(400, 450, 80, 80, 0, PI + QUARTER_PI, OPEN);
     fill("red");
     ellipse(230, 490, 210, 135);
+    fill("green");
+    ellipse(340, 120, 230, 175);
     
     console.log("I am below line function");
     
